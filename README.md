@@ -1,4 +1,4 @@
-# FlowLedger – Modern Expense & Company Financial OS  
+# Fintrack – Modern Expense & Company Financial OS  
 A full-stack SaaS application to track **personal expenses**, **company expenses**, **budgets**, **subscriptions**, and **financial insights** — built using **React (Vite)**, **Laravel API**, **PostgreSQL**, **Redis**, and **Docker**.
 
 ---
