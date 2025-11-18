@@ -6,7 +6,7 @@ services:
   backend:
     build:
       context: ./backend
-    container_name: laravel_backend
+    container_name: fintrack_backend
     volumes:
       - ./backend:/var/www/html
     ports:
@@ -28,7 +28,7 @@ services:
   frontend:
     build:
       context: ./frontend
-    container_name: react_frontend
+    container_name: fintrack_frontend
     volumes:
       - ./frontend:/app
     ports:
